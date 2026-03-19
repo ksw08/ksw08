@@ -17,7 +17,7 @@
   <a href="mailto:kimsy7478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kssssw08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ksw08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="./kswCV_blur.pdf"><img src="https://img.shields.io/badge/View_CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+  <a href="https://github.com/ksw08/CV/blob/main/kswCV_blur.pdf"><img src="https://img.shields.io/badge/View_CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 - 🎓 **B.S. Student** in Electrical and Electronic Engineering @ **Dankook University**
 - 🤖 **Member** of MAZE Robotics Club since 2021 (President: Oct '24 - Sep '25)
 - 🧠 **Interests**: Autonomous Driving, Mobile Robots, Embedded Control, Optimization, Sensor Fusion
-- 📄 **Check out my [CV PDF](./kswCV_blur.pdf)** for more detailed experience.
+- 📄 **Check out my [CV PDF](https://github.com/ksw08/CV/blob/main/kswCV_blur.pdf)** for more detailed experience.
 
 ---
 
@@ -44,15 +44,6 @@
 
 ### 🔧 Tools & Simulation
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/SolidWorks-DC3545?style=flat&logo=solidworks&logoColor=white"/>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksw08&show_icons=true&theme=vue-dark&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksw08&layout=compact&theme=vue-dark" height="150" />
-</p>
 
 ---
 
