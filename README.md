@@ -8,7 +8,7 @@
 
 ## 💡 Autonomous Systems, Control, and Robotics Researcher
 
-> 📢 **"Open to research internships, lab opportunities, and collaboration. Feel free to contact me anytime."**
+> #### 📢 *"Open to research internships, lab opportunities, and collaboration. Feel free to contact me anytime."*
 
 ---
 
