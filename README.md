@@ -24,7 +24,7 @@
 
 ## 📋 Overview
 
-- 🎓 **B.S. Student** in Electrical and Electronic Engineering @ **Dankook University**
+- 🎓 **B.S. Student** in Electrical and Electronic Engineering @ **Dankook University Expected Feb 2027**
 - 🤖 **Member** of MAZE Robotics Club since 2021 (President: Oct '24 - Sep '25)
 - 🧠 **Interests**: Autonomous Driving, Mobile Robots, Embedded Control, Optimization, Sensor Fusion
 - 📄 **Check out my [CV PDF](https://github.com/ksw08/CV/blob/main/kswCV_blur.pdf)** for more detailed experience.
